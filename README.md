@@ -29,7 +29,7 @@ The PCB is usually only 1.6mm thick which means another 0.8mm are needed so that
 - 0805 Resistor 320Ω
 - 0805 Resistor 40kΩ
 - 0805 Resistor 22kΩ
-- 0805 Capacitor 4.7uF
+- 2x 0805 Capacitor 4.7uF
 - CR/LIR2450 Coin cell holder (20mm diameter, 5mm height)
 - (optional) male pin header, jst pin header
 
