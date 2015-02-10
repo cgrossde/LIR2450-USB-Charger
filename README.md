@@ -1,6 +1,7 @@
 # LIR2450 USB Charger
 
 ![3D-Model](3D-Model/3D-Model.jpg?raw=true)
+[3D-Model on Sketchfab](https://sketchfab.com/models/f6b9f5c950564a3f85bb46c3d435a189)
 
 Based on MCP73831. **Beware not tested (yet).**
 Order three PCBs for 13.60$ at OSHPARK: [LIR2450 USB Charger](https://oshpark.com/projects/roORU8h6)
