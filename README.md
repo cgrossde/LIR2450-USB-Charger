@@ -2,7 +2,7 @@
 
 I started doing a lot with low power devices (Arduino, BLE 4.0) and coin cells are a convenient power source. Lately I found out that there are even rechargeable coin cells. That's why I needed a charger. There are only a few models out there which are either expensive or have a charge current that I think is to high. So I made my own.
 
-![3D-Model](3D-Model/3D-Model.jpg?raw=true)
+![3D-Model](3D-Model/3D-Model_bothSides.jpg?raw=true)
 [3D-Model on Sketchfab](https://sketchfab.com/models/f6b9f5c950564a3f85bb46c3d435a189)
 
 It is based on the [MCP73831](https://www.sparkfun.com/datasheets/Prototyping/Batteries/MCP73831T.pdf). **Beware not tested (yet).**
